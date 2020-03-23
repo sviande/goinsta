@@ -42,6 +42,7 @@ const (
 	urlLogAttribution = "attribution/log_attribution/"
 	urlMegaphoneLog   = "megaphone/log/"
 	urlExpose         = "qe/expose/"
+	urlLauncherSync   = "launcher/sync/"
 
 	// account
 	urlCurrentUser   = "accounts/current_user/"
